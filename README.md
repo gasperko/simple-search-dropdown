@@ -37,5 +37,5 @@ node server.js
 ```
 
 ## Screen Shots
-![alt tag](https://github.com/pigeyes/simple-search-dropdown.git/demo-img/Screen Shot 2016-05-09 at 11.38.51)
-![alt tag](https://github.com/pigeyes/simple-search-dropdown.git/demo-img/Screen Shot 2016-05-09 at 11.39.13)
+![alt tag](https://cloud.githubusercontent.com/assets/7312577/15118805/c1ed4244-15db-11e6-8ecd-e425c998edf5.png)
+![alt tag](https://cloud.githubusercontent.com/assets/7312577/15118806/c1ed8768-15db-11e6-8997-b1e736d1d882.png)
