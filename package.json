@@ -1,0 +1,10 @@
+{
+  "name": "simple-search-dropdown",
+  "main": "server.js",
+  "dependencies": {
+    "express" : "~4.5.1",
+	"body-parser" : "~1.4.2",
+	"mysql": "^2.6.2"
+  }
+}
+
