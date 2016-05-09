@@ -1,5 +1,6 @@
 # simple-search-dropdown
-This is a simple selector with a search bar and drop down options. Front-end: Angularjs, Back-end: Node.js, Database: mySQL, plus Bootstrap.
+This is a simple selector with a search bar and drop down options. 
+Front-end: Angularjs, Back-end: Node.js, Database: mySQL, plus Bootstrap.
 
 [Getting Started](https://github.com/pigeyes/simple-search-dropdown.git) 
 
@@ -10,7 +11,7 @@ This is a simple selector with a search bar and drop down options. Front-end: An
 ## Installation Methods
 
 ### clone this repo
-```
+
 ### npm
 ```
 $ npm install
@@ -19,6 +20,7 @@ $ npm install
 ```
 $ bower install angular-ui-select
 ```
+
 ### sample dataset: Sakila mySQL sample data
 
 this example use dataset from sakila-data.sql and sakila-schema.sql.
