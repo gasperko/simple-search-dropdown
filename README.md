@@ -36,3 +36,6 @@ See https://dev.mysql.com/doc/sakila/en/sakila-installation.html for more detail
 node server.js
 ```
 
+## Screen Shots
+![alt tag](https://github.com/pigeyes/simple-search-dropdown.git/demo-img/Screen Shot 2016-05-09 at 11.38.51)
+![alt tag](https://github.com/pigeyes/simple-search-dropdown.git/demo-img/Screen Shot 2016-05-09 at 11.39.13)
