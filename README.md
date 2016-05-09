@@ -8,7 +8,10 @@ Front-end: Angularjs, Back-end: Node.js, Database: mySQL, plus Bootstrap.
 
 - Search, Select
 
-## Installation Methods
+### Prepare your environment
+* Install [Node.js](http://nodejs.org/) and NPM (should come with)
+
+## Usage
 
 ### clone this repo
 
@@ -21,13 +24,15 @@ $ npm install
 $ bower install angular-ui-select
 ```
 
-### sample dataset: Sakila mySQL sample data
+### Sample dataset: Sakila mySQL sample data
 
-this example use dataset from sakila-data.sql and sakila-schema.sql.
+This example use dataset from sakila-data.sql and sakila-schema.sql.
 See https://dev.mysql.com/doc/sakila/en/sakila-installation.html for more detail.
 
-## Development
+* modify database config before you run the server
 
-### Prepare your environment
-* Install [Node.js](http://nodejs.org/) and NPM (should come with)
+### run server
+```
+node server.js
+```
 
